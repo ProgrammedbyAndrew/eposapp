@@ -101,3 +101,10 @@ iframe {
 .back-button:hover {
     background-color: #007a99;
 }
+
+.small-note {
+    font-size: 10px; /* adjust this value according to your preference */
+    margin: 5px 0;  /* adds a small margin around the note */
+    color: #666;    /* makes the text slightly gray for subtlety */
+}
+
