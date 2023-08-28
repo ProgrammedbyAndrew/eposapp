@@ -108,3 +108,22 @@ iframe {
     color: #666;    /* makes the text slightly gray for subtlety */
 }
 
+/* ... (rest of your CSS) ... */
+
+footer {
+    background-color: #2c3e50; /* dark blue color, can be adjusted */
+    color: #ecf0f1; /* light gray color for the text */
+    padding: 10px 20px;
+    text-align: center;
+    margin-top: 20px; /* Adds some spacing between the content and the footer */
+    border-radius: 10px;
+    width: 90%; /* Adjust this according to preference */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    margin: 0; /* Removes default margin from the paragraph for cleaner design */
+    font-size: 12px; /* Adjust as needed */
+}
+
